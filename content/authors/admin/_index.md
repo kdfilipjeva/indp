@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ксения Филипьева
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ksenia Filipjeva
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ксения
+last_name: Филипьева
 
 # Status emoji
 status:
@@ -17,35 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский Университет Дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мне нравится изучать программирование и новые бизнес-модели в цифровой экономике.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Освоение искусственного интелекта
+  - Языки программирования
+  - Изучение экономических моделей
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: Студент
+      institution: РУДН
+      year: 2023
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -120,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Филипьева Ксения Дмитриевна - студент Российского Университета Дружбы Народов. В ее интересы входит: дисциплины по направлению Кибербезопасность в экономике, а также изучение азиатских языков. Имеет исследовательскую работу на тему "Развитие новых бизнес-моделей в цифровой экономике, их преимущества и недостатки".
 {style="text-align: justify;"}
