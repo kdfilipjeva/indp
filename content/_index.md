@@ -62,27 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: School Student
+          company: School 1.
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo:
+          location: Yaroslavl
+          date_start: '2021-09-01'
+          date_end: '2023-05-30'
+        - title: University Student
+          company: RUDN
+          company_url: ''
+          company_logo: 
+          location: Moscow
+          date_start: '2023-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -98,33 +91,25 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - certificate_url: https://mgimo.ru/
+          date_end: '2023-11-15'
+          date_start: '2023-09-01'
+          description: Development of the concept of a sales platform
+          icon: 
+          organization: MGIMO
+          organization_url: https://mgimo.ru/
+          title: Project activities
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://gnivc.ru/
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          date_start: '2024-02-01'
+          description: Promotion and full support of the project I created
+          icon:
+          organization: GNIVC
+          organization_url: https://gnivc.ru/
+          title: Olympiad in the field of analytics
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        
     design:
       columns: '2'
   - block: collection

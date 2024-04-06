@@ -39,44 +39,39 @@ education:
     - course: Студент
       institution: РУДН
       year: 2023
-# Skills
+# Навыки
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Технические навыки
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
+        percent: 60
+        icon: c
+        icon_pack: fab
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Иностранные языки
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 80
+        icon: book
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Рисование
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 60
+        icon: palette
         icon_pack: fas
 
 # Social/Academic Networking
