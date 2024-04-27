@@ -81,28 +81,39 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:1132230795@pfur.ru'
+      
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=ru&user=8i65DcMAAAAJ
+    
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/kdfilipjeva
+    
+  - icon: book-bookmark
+    icon_pack: fas
+    link: https://www.elibrary.ru/project_user_tools.asp
+    
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://orcid.org/my-orcid?orcid=0009-0009-1493-6129
+    
+  - icon: mendeley
+    icon_pack: fab
+    link: https://www.mendeley.com/settings/account/
+    
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Ksenia-Filipeva
+    
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://www.academia.edu/
+    
+  - icon: folder-open
+    icon_pack: fas
+    link: https://arxiv.org/user/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
